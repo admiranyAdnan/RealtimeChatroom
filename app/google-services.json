@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068775440615",
+    "firebase_url": "https://realtimechat-5d0e5.firebaseio.com",
+    "project_id": "realtimechat-5d0e5",
+    "storage_bucket": "realtimechat-5d0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068775440615:android:6cda9dba937b9371",
+        "android_client_info": {
+          "package_name": "id.ac.polsri.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068775440615-gcrrtdvqm1s9kucspnn78ghq6683ucig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.polsri.realtimechat",
+            "certificate_hash": "bf32d83b42b9b6fb12c6a37015a2f3fd58e01978"
+          }
+        },
+        {
+          "client_id": "1068775440615-4pjs26tg2okt6166mastb0eja09p1sq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKR4mxHia68I---2hBBNyL3vc94Ehh4KM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068775440615-4pjs26tg2okt6166mastb0eja09p1sq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
